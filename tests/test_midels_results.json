@@ -1,0 +1,19 @@
+{
+  "threshold": 0.96,
+  "metrics": {
+    "ROC_AUC": 0.9999899809972915,
+    "PR_AUC": 0.9998891270603888,
+    "Precision": 1.0,
+    "Recall": 0.9631901840490797,
+    "F1": 0.98125,
+    "Accuracy": 0.997
+  },
+  "status": {
+    "ROC_AUC": true,
+    "PR_AUC": true,
+    "Precision": true,
+    "Recall": true,
+    "F1": true,
+    "Accuracy": true
+  }
+}
